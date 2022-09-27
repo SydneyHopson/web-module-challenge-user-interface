@@ -2,6 +2,10 @@
 *{
   color:r#3C373B;
 }
+body{
+ margin-left: 20%; 
+ margin-right: 20%;
+}
 
 h1 {
   font-family: 'Gaegu', cursive;
